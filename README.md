@@ -1,11 +1,18 @@
+# DESAFIO TARGET SISTEMAS
+
+## Sumário
+- [Exercício 1](##1.-Valor-da-variável-soma)
+- [Exercício 2](##2.-Determinando-se-um-número-pertence-à-sequência-de-Fibonacci)
+- [Exercício 3](##3.-Cálculo-faturamento-diário-de-uma-distribuidora.)
+- [Exercício 4](##4.-Faturamento-mensal-de-uma-distribuidora.)
+- [Exercício 5](##5.-Escreva-um-programa-que-inverta-os-caracteres-de-um-string.)
+  
 # Descrição
 <div align="justify">
 Este repositório contém soluções para cinco problemas de programação, abordando conceitos básicos como loops, sequência de Fibonacci, análise de dados e manipulação de strings. Os problemas são resolvidos utilizando diferentes linguagens de programação. A seguir estão as descrições e os requisitos de cada problema:
 </div>
 
-## Problemas
-
-### 1. Valor da variável soma
+## 1. Valor da variável soma
 
 Dado o trecho de código abaixo:
 ```
@@ -37,7 +44,7 @@ public class Main {
 
 O resultado da saída do processamento da __soma é 91.__
 
-### 2. Determinando se um número pertence à sequência de Fibonacci
+## 2. Determinando se um número pertence à sequência de Fibonacci
 
 <div align="justify">
   Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar
@@ -79,7 +86,7 @@ public class Main {
   }
 }
 ```
-### 3) Cálculo faturamento diário de uma distribuidora.
+## 3) Cálculo faturamento diário de uma distribuidora.
 
 <div align="justify">
   Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
@@ -162,7 +169,7 @@ O maior valor de faturamento corresponde a __R$ 48.924,24__
 
 Número de dias com faturamento superior à média corresponde a __10 dias__
 
-### 4) Faturamento mensal de uma distribuidora.
+## 4) Faturamento mensal de uma distribuidora.
 
 <div align="justify">
   
@@ -229,7 +236,7 @@ O percentual de faturamento para o estado de ES corresponde a __15.03%__
 O percentual de faturamento para Outros estados corresponde a __10.98%__
 
 
-### 5) Escreva um programa que inverta os caracteres de um string.
+## 5) Escreva um programa que inverta os caracteres de um string.
 <div align="justify">
  
   Escreva um programa que inverta os caracteres de um string.
