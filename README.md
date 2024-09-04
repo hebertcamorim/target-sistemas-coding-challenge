@@ -5,7 +5,7 @@
 - [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)
 - [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)
 - [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)
-- [Exercício 5](#5-invertendo-caracteres-de-uma-string.)
+- [Exercício 5](#5-invertendo-caracteres-de-uma-string)
   
 # Descrição
 <div align="justify">
@@ -43,7 +43,7 @@ public class Main {
 ```
 O resultado da saída do processamento da __soma é 91.__
 
-[Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string.)
+[Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string)
 
 
 ## 2. Determinando se um número pertence à sequência de Fibonacci
@@ -88,7 +88,7 @@ public class Main {
   }
 }
 ```
-[Exercício 1](#1-valor-da-variável-soma)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string.)
+[Exercício 1](#1-valor-da-variável-soma)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string)
 
 
 ## 3. Cálculo faturamento diário de uma distribuidora
@@ -174,7 +174,7 @@ O maior valor de faturamento corresponde a __R$ 48.924,24__
 
 Número de dias com faturamento superior à média corresponde a __10 dias__
 
-[Exercício 1](#1-valor-da-variável-soma)   [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string.)
+[Exercício 1](#1-valor-da-variável-soma)   [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string)
 
 
 ## 4. Faturamento mensal de uma distribuidora
@@ -243,7 +243,7 @@ O percentual de faturamento para o estado de ES corresponde a __15.03%__
 
 O percentual de faturamento para Outros estados corresponde a __10.98%__
 
-[Exercício 1](#1-valor-da-variável-soma)   [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string.)
+[Exercício 1](#1-valor-da-variável-soma)   [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci)   [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora)   [Exercício 5](#5-invertendo-caracteres-de-uma-string)
 
 
 ## 5. Invertendo caracteres de uma string.
