@@ -1,7 +1,7 @@
 # DESAFIO TARGET SISTEMAS
 
 ## Sumário
-- [Exercício 1](##1.-Valor-da-variável-soma)
+- [Exercício 1](##-1.-Valor-da-variável-soma)
 - [Exercício 2](##2.-Determinando-se-um-número-pertence-à-sequência-de-Fibonacci)
 - [Exercício 3](##3.-Cálculo-faturamento-diário-de-uma-distribuidora.)
 - [Exercício 4](##4.-Faturamento-mensal-de-uma-distribuidora.)
