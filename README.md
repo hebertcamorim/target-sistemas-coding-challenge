@@ -86,7 +86,7 @@ public class Main {
   }
 }
 ```
-## 3) Cálculo faturamento diário de uma distribuidora.
+## 3) Cálculo faturamento diário de uma distribuidora
 
 <div align="justify">
   Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
@@ -169,7 +169,7 @@ O maior valor de faturamento corresponde a __R$ 48.924,24__
 
 Número de dias com faturamento superior à média corresponde a __10 dias__
 
-## 4) Faturamento mensal de uma distribuidora.
+## 4) Faturamento mensal de uma distribuidora
 
 <div align="justify">
   
