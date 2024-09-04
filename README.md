@@ -1,9 +1,9 @@
 # DESAFIO TARGET SISTEMAS
 
 ## Sumário
-- [Exercício 1](#1-valor-da-variavel-soma)
-- [Exercício 2](#2-determinando-se-um-numero-pertence-à-sequencia-de-fibonacci)
-- [Exercício 3](#3-calculo-faturamento-diario-de-uma-distribuidora)
+- [Exercício 1](#1-valor-da-variável-soma)
+- [Exercício 2](#2-determinando-se-um-número-pertence-à-sequencia-de-fibonacci)
+- [Exercício 3](#3-calculo-faturamento-diário-de-uma-distribuidora)
 - [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora)
 - [Exercício 5](#5-escreva-um-programa-que-inverta-os-caracteres-de-um-string)
   
