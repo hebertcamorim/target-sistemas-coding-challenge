@@ -44,7 +44,7 @@ public class Main {
 
 O resultado da saída do processamento da __soma é 91.__
 
-- [Exercício 1](#1-valor-da-variável-soma) - [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci) - [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora) - [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora) - [Exercício 5](#5-escreva-um-programa-que-inverta-os-caracteres-de-um-string)
+[Exercício 1](#1-valor-da-variável-soma) [Exercício 2](#2-determinando-se-um-número-pertence-à-sequência-de-fibonacci) [Exercício 3](#3-cálculo-faturamento-diário-de-uma-distribuidora) [Exercício 4](#4-faturamento-mensal-de-uma-distribuidora) [Exercício 5](#5-escreva-um-programa-que-inverta-os-caracteres-de-um-string)
 
 ## 2. Determinando se um número pertence à sequência de Fibonacci
 
